@@ -4,4 +4,4 @@ insert into people(people_name, people_Email, people_ph, people_gender) values
 ('vivek', 'vivek@gmail.com', '7894561231', 'male'),
 ('karan', 'karan@gmail.com', '7894561232', 'male'),
 ('ritesh', 'ritesh@gmail.com', '7894561233', 'male'),
-('prachi', 'prachi@gmail.com', '7894561234', 'female')
+('prachi', 'prachi@gmail.com', '7894561234', 'female');
